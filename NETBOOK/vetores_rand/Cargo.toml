@@ -1,0 +1,11 @@
+[package]
+name = "matrizes"
+version = "0.1.0"
+edition = "2021"
+authors = ["Felype Rangel <felype.sales@outlook.com"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.4"
+text_io = "0.1.9"

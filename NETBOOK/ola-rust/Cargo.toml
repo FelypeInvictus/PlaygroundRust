@@ -1,0 +1,10 @@
+[package]
+name = "ola-rust"
+version = "0.1.0"
+edition = "2018"
+authors = ["Felype Rangel"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ferris-says = "0.2"
+text_io = "0.1.9"
